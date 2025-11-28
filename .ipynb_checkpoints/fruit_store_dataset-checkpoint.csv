@@ -1,0 +1,97 @@
+fruit_id,fruit_name,description,,origin,condition,buy_price(CAD/kg),sell_price(CAD/kg),in_stock_availability
+1,Apple,Crisp sweet-tart pomaceous fruit,,Central Asia / worldwide,A,1.2,2,High
+2,Banana,Sweet soft tropical fruit,,Southeast Asia / worldwide,A,0.4,0.8,High
+3,Orange,Juicy tangy citrus,,China/Mediterranean,A,0.6,1.2,High
+4,Mango,Juicy aromatic tropical fruit,,South Asia / tropics,A,1.5,3.5,High
+5,Pineapple,Tangy-sweet fibrous tropical fruit,,South America/SE Asia,A,0.8,1.8,High
+6,Papaya,Soft sweet tropical fruit,,Tropical Americas,A,0.7,1.6,High
+7,Guava,Fragrant sweet/tart tropical fruit,,Central/South America,A,1,2.2,Medium
+8,Lychee,Aromatic juicy stone fruit,,China/SE Asia,A,3.5,8,Medium
+9,Durian,"Strong aroma, custardy flesh",,SE Asia,B,4,10,Low
+10,Rambutan,Hairy sweet tropical fruit,,SE Asia,A,2.5,6,Low
+11,Mangosteen,Sweet-tart fragrant fruit,,SE Asia,A,5,12,Low
+12,Jackfruit,Large sweet bulbs,,South/SE Asia,A,0.9,2.5,Medium
+13,Dragon fruit,Mild seeded tropical fruit,,Central America/SE Asia,A,1.8,4,Medium
+14,Passion fruit,Tart-sweet pulp,,South America/tropics,A,2.8,6.5,Medium
+15,Kiwi,Green tart-sweet fruit,,China/NZ,A,2.2,4.5,High
+16,Grapes,Fresh or wine grapes,,Worldwide,A,1.8,3.8,High
+17,Strawberry,Juicy fragrant berry,,Worldwide,A,4,9,High
+18,Blueberry,Sweet-tart antioxidant berry,,North America,A,6,12,Medium
+19,Raspberry,Delicate tart berry,,Temperate regions,A,5.5,11,Medium
+20,Blackberry,Dark juicy berry,,Temperate regions,A,3.5,8,Medium
+21,Cranberry,Tart red berry,,North America,A,1.8,4,Low
+22,Watermelon,Large refreshing melon,,Africa/worldwide,A,0.4,0.9,High
+23,Cantaloupe,Fragrant orange melon,,Asia/worldwide,A,0.6,1.5,High
+24,Honeydew,Mild sweet melon,,Mediterranean/worldwide,A,0.7,1.8,Medium
+25,Pear,Juicy fruit,,Asia/Europe,A,1.1,2.2,High
+26,Peach,Sweet fuzzy stone fruit,,China,A,1.3,2.8,High
+27,Plum,Sweet/tart stone fruit,,China/Europe,A,1.1,2.4,High
+28,Apricot,Small sweet-tart fruit,,Central Asia,A,1.5,3.2,Medium
+29,Cherry,Small red sweet stone fruit,,Europe/Asia,A,4.5,10,Medium
+30,Fig,Soft sweet fruit,,Mediterranean,A,2.2,5,Medium
+31,Date,Sweet dried fruit,,Middle East,A,2,5,High
+32,Persimmon,Sweet honey-like fruit,,East Asia,A,1.8,4,Low
+33,Pomegranate,Tart-sweet arils,,Iran/India,A,2.5,5.5,Medium
+34,Grapefruit,Bittersweet citrus,,Florida/Mediterranean,A,0.9,2,Medium
+35,Tangerine,Sweet mandarin citrus,,China,A,0.8,1.8,High
+36,Clementine,Seedless sweet mandarin,,Mediterranean/Africa,A,1,2.2,High
+37,Mandarin,Easy-peel citrus,,China,A,0.8,1.8,High
+38,Lemon,Tart citrus,,Asia,A,0.7,1.6,High
+39,Lime,Small tart citrus,,SE Asia/Americas,A,0.9,2,High
+40,Kumquat,Tiny sweet-tart citrus,,China,A,3,6.5,Low
+41,Starfruit,Tart-sweet star-shaped fruit,,SE Asia,A,1.4,3.2,Medium
+42,Soursop,Sweet-acidic spiny fruit,,Caribbean,B,1.8,4.5,Low
+43,Cherimoya,Creamy sweet fruit,,South America,A,6,14,Low
+44,Custard apple,Sweet custardy fruit,,Tropical Americas,A,2.5,6,Low
+45,Sapodilla,Sweet caramel-like fruit,,Mexico,A,1.5,3.5,Medium
+46,Tamarind,Sweet-sour pulp,,Africa/Asia,A,1.2,2.8,Medium
+47,Ackee,Creamy savory-use fruit,,West Africa/Caribbean,B,1.5,3.5,Low
+48,Feijoa,Fragrant sweet fruit,,South America/NZ,B,2.8,6,Low
+49,Jujube,Apple-like fresh; dried,,China,A,1.2,2.8,Medium
+50,Longan,Sweet floral fruit,,SE Asia,A,3,6.5,Low
+51,Mulberry,Soft sweet berry,,Asia/Europe,A,1.6,3.8,Low
+52,Elderberry,Used cooked for syrups,,Europe/NA,B,2,5,Low
+53,Gooseberry,Tart berry,,Eurasia,A,2.5,5.5,Low
+54,Cloudberry,Rare tart berry,,Arctic,C,20,40,Low
+55,Huckleberry,Wild tart berry,,North America,C,8,18,Low
+56,Boysenberry,Large hybrid berry,,USA/Australia,A,3.5,7.5,Low
+57,Plantain,Starchy cooking banana,,Americas/Africa,A,0.35,0.7,High
+58,Breadfruit,Starchy cooked fruit,,Pacific,A,0.6,1.5,Medium
+59,Ugli fruit,Tangy citrus hybrid,,Jamaica,A,1.8,3.8,Low
+60,Quince,Fragrant hard fruit,,Mediterranean,A,1.9,4,Low
+61,Medlar,Softened apple-like fruit,,Europe,A,4.5,10,Low
+62,Horned melon,Spiky orange fruit,,Africa,A,3.5,8,Low
+63,African cucumber,Tangy jelly-like fruit,,Africa,B,2.8,6,Low
+64,Miracle fruit,Taste-modifying berry,,West Africa,Rare,30,80,Low
+65,Salak,Crisp sweet-tart fruit,,Indonesia,A,2.5,6,Low
+66,Buddha’s hand,Aromatic citron,,China/India,A,15,30,Low
+67,Yuzu,Aromatic citrus,,Japan/Korea,A,12,25,Low
+68,Pomelo,Large mild citrus,,SE Asia,A,1.2,2.8,Medium
+69,Santol,Sweet-sour fruit,,SE Asia,B,1.5,3.5,Low
+70,Langsat,Mild sweet fruit,,SE Asia,A,1.8,4,Low
+71,Bilimbi,Very sour fruit,,SE Asia,B,0.8,2,Low
+72,Acerola,Vit C rich tart cherry,,Americas,A,6,14,Low
+73,Sea buckthorn,Tart orange berry,,Eurasia,A,10,25,Low
+74,Nance,Small tart fruit,,Latin America,B,1.2,2.8,Low
+75,Mamey sapote,Creamy sweet fruit,,Americas,A,3,7,Low
+76,White sapote,Creamy custard fruit,,Central America,B,2.5,6,Low
+77,Canistel,Sweet egg-yolk-like fruit,,Central America,B,2,4.5,Low
+78,Lucuma,Sweet starchy fruit,,Peru,A,8,18,Low
+79,Hog plum,Tart tropical fruit,,Americas/Asia,B,1,2.5,Low
+80,Ambarella,Tart-sweet fibrous fruit,,Asia/Caribbean,B,1.4,3,Low
+81,Marang,Soft sweet fruit,,Philippines,B,1.7,4,Low
+82,Bignay,Tart red fruit,,Philippines,B,1.6,3.8,Low
+83,Black sapote,Chocolate-like fruit,,Mexico,A,3.5,8,Low
+84,Calamansi,Small sour citrus,,Philippines,A,3.2,7,Medium
+85,Jabuticaba,Grape-like tropical fruit,,Brazil,A,8,18,Low
+86,Sapote,General tropical fruit,,Americas,B,2,5,Low
+87,Mamoncillo,Tangy-sweet fruit,,Caribbean,A,1.2,2.8,Low
+88,Prickly pear,Sweet cactus fruit,,Mexico,A,1.8,4,Medium
+89,Bael fruit,Hard-shelled aromatic fruit,,South Asia,B,1.4,3,Low
+90,Velvet apple,Sweet creamy fruit,,SE Asia,B,2.8,6.5,Low
+91,Rose apple,Crisp watery fruit,,SE Asia/Brazil,B,1.2,2.8,Low
+92,Water apple,Crisp watery bell fruit,,SE Asia,B,1.1,2.5,Low
+93,Cupuacu,Aromatic Amazonian fruit,,Amazon,A,6,14,Low
+94,Physalis,Sweet-tart golden berry,,South America,A,12,28,Low
+95,Amla,Very tart fruit,,India,A,2.2,5,Low
+96,Tamarillo,Tangy tree tomato,,Andes,B,2.4,5.5,Low
